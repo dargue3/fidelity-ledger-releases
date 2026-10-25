@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Fidelity Ledger</title>
+        <item>
+            <title>0.1.11</title>
+            <pubDate>Sun, 25 Oct 2026 12:54:51 -0700</pubDate>
+            <sparkle:version>0.1.11</sparkle:version>
+            <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/dargue3/fidelity-ledger-releases/releases/download/v0.1.11/Fidelity-Ledger-x86_64.zip" length="17215765" type="application/octet-stream" sparkle:edSignature="VFK4UrFYC+29qHcPmIP1m7jzoOFdAeuOoQ/F2ajc8bwDVQhW3wQf2WfqtIT3Lpz+fY+G5njrId9Ma50MEsWGCw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: 5ph5ca0ya1h+B5be+eET4bkQaxTdbswPpTHdjLkqWY+bMCwN6brbaOuIwhlQ3QfF/5Wdf2yIoNp7lI4u9u+dAQ==
+length: 1082
+-->
